@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giraluna1&label=Profile%20views&color=0e75b6&style=flat" alt="giraluna1" /> </p>
 
-- 🔭 I’m currently working on **Holberton Projects**
-
-- 👨‍💻 All of my projects are available at [sheisluna.tech](sheisluna.tech)
+- 🔭 I’m currently working on **Curious Projects**
 
 - 📫 How to reach me **lunagolo@hotmail.com**
 
