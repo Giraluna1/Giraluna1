@@ -1,9 +1,9 @@
 <h1 align="center">Hi  I'm Luna 🌚</h1>
-<h3 align="center">A Girl developer ⚡ from Medellin-Colombia</h3>
+<h3 align="center"> Data Engineer ⚡ from Medellin-Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giraluna1&label=Profile%20views&color=0e75b6&style=flat" alt="giraluna1" /> </p>
 
-- 🔭 I’m currently working on **Curious Projects**
+- 🔭 I’m currently working on **Kiwibot** a startup that provides Food Delivery by robots
 
 - 📫 How to reach me **lunagolo@hotmail.com**
 
