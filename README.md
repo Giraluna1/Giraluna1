@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giraluna1&label=Profile%20views&color=0e75b6&style=flat" alt="giraluna1" /> </p>
 
-- 🔭 I’m currently working on **Kiwibot** a startup that provides Food Delivery by robots
+- 🔭 I’m currently working on **Kiwibot** a startup that provides Food Delivery and last mile delivery by robots
 
 - 📫 How to reach me **lunagolo@hotmail.com**
 
